@@ -38,7 +38,7 @@ The purpose of this project is to
 
 ### How to run
 
-- See [CONTRIBUTING page](https://github.com/CSSG-Labs/rust-text-editor/CONTRIBUTING.md)
+- See [CONTRIBUTING page](https://github.com/CSSG-Labs/rust-text-editor/blob/main/CONTRIBUTING.md)
 
 ## Roadmap (V1)
 
